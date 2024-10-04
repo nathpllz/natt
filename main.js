@@ -25,7 +25,7 @@ let estados= ['ac','al','am','pa','ba',
 // i++;
 // }
 for (let j= 0; j<estados.lengtht; j++) {
-    console.log(j);
+console.log(j);
    console.log(estados[j]);
     
 }
