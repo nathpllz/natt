@@ -18,3 +18,8 @@
 let estados= ['ac','al','am','pa','ba',
     'df', 'es', 'go', 'ma', 'mt','mt','ms','mg','pa','pb','pr','pe','pi','rj','rn','rs','ro','rr','sc','sp','se','to'
     ]
+let i= 0
+while(i<10){
+console.log(i);
+i=i+1;
+}
