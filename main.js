@@ -27,7 +27,7 @@ let estados= ['ac','al','am','pa','ba',
 // for (let j= 0; j<estados.length; j++) {
 // console.log(j);
 //    console.log(estados[j]);
-    let idade= (prompt("qual sua idade")
+    let idade= (prompt("qual sua idade"));
 if(idade>17){console.log('pode dirigir')}
 else{ console.log('ilegal dirigir')
 
