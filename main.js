@@ -19,8 +19,8 @@ let estados= ['ac','al','am','pa','ba',
     'df', 'es', 'go', 'ma', 'mt','mt','ms','mg','pa','pb','pr','pe','pi','rj','rn','rs','ro','rr','sc','sp','se','to'
     ]
 let i= 0
-while(i<26){
+while(i<){
 console.log(i);
-i++;
 console.log(estados[i]);
+i++;
 }
